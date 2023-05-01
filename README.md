@@ -14,6 +14,7 @@
   ## Description
 
   This project will generate a README via a CLI.
+  Walkthrough video [here](https://drive.google.com/file/d/1zdFoo7lzPhGmOoXY1MqspVMDMrv1vc1E/view)
   
   ## Installation
 
